@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MrinalGupta7890/Habit-Tracking-App/static/css/main.6a4bc508.css",
-    "main.js": "/MrinalGupta7890/Habit-Tracking-App/static/js/main.8ef974c6.js",
-    "index.html": "/MrinalGupta7890/Habit-Tracking-App/index.html",
-    "main.6a4bc508.css.map": "/MrinalGupta7890/Habit-Tracking-App/static/css/main.6a4bc508.css.map",
-    "main.8ef974c6.js.map": "/MrinalGupta7890/Habit-Tracking-App/static/js/main.8ef974c6.js.map"
+    "main.css": "/MrinalGupta7890/Habittracker-react-main/static/css/main.04cc6bc2.css",
+    "main.js": "/MrinalGupta7890/Habittracker-react-main/static/js/main.6293f6c0.js",
+    "index.html": "/MrinalGupta7890/Habittracker-react-main/index.html",
+    "main.04cc6bc2.css.map": "/MrinalGupta7890/Habittracker-react-main/static/css/main.04cc6bc2.css.map",
+    "main.6293f6c0.js.map": "/MrinalGupta7890/Habittracker-react-main/static/js/main.6293f6c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a4bc508.css",
-    "static/js/main.8ef974c6.js"
+    "static/css/main.04cc6bc2.css",
+    "static/js/main.6293f6c0.js"
   ]
 }
