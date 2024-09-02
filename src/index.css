@@ -1,5 +1,5 @@
 body {
-    background:radial-gradient(circle,rgba(224, 24, 24, 0.684) 25%,rgba(0, 17, 255, 0.802) 90%);
+    background:radial-gradient(circle,rgba(255, 255, 255, 0.684) 25%,rgba(255, 255, 255, 0.802) 90%);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
@@ -7,18 +7,18 @@ body {
 }
  /*********************  for navbar  *****************************/
 #navam{                                                              
-    background-color: #1c1c1f;
+    background-color: #0b6687;
     font-weight:heavy;
 }
 .nav-head{                                                                      /*for navbar*/
-    background: -webkit-linear-gradient(145deg,#e1e1e1, #0d49ca ); 
+    background: white; 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: times new roman;
     padding: 0.5% ;
 }
 .day{
-    background: -webkit-linear-gradient(145deg, #0d49ca,#e1e1e1 );          /*for navbar*/
+    background: white;          /*for navbar*/
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 4px;
