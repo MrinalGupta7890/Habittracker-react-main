@@ -24,7 +24,7 @@ The Habit Tracker App is a web application that allows users to track their dail
 <h2>Getting Started</h2>
 
 <h3>1.Clone the Repository: </h3> <br/>
-      git clone https://github.com/simpleesarath/Habittracker-react.git cd habit -tracker <br/>
+      git clone https://github.com/MrinalGupta7890/Habittracker-react-main.git cd habit -tracker <br/>
 <h3>2.Install Dependencies:</h3> <br/>
       npm insatll <br/>
 <h3>3.Start app</h3> <br/>
