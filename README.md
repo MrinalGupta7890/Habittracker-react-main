@@ -1,6 +1,6 @@
 <h1>Habit Tracker App</h1>
 The Habit Tracker App is a web application that allows users to track their daily habits and monitor their progress over time. Users can add new habits, edit existing ones, and mark them as completed each day. The app provides a simple and intuitive interface for habit management.This project was inspired by the need to build better habits and stay organized. Feel free to contribute or use it as a starting point for your own habit tracker app
-<h2> Hosted Link:</h2>https://simpleesarath.github.io/Habittracker-react
+<h2> Hosted Link:</h2>https://github.com/MrinalGupta7890/Habittracker-react-main
 
 **<h2>Features</h2>**
 
